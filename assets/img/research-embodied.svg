@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+  <title id="t">Embodied and immersive interaction</title><desc id="d">A minimal figure wearing a virtual reality headset with soft airflow lines.</desc>
+  <rect width="1200" height="675" fill="#f8edf5"/>
+  <circle cx="520" cy="260" r="105" fill="none" stroke="#2f2f2f" stroke-width="12"/>
+  <rect x="390" y="215" width="260" height="100" rx="38" fill="#d8aebd" stroke="#2f2f2f" stroke-width="10"/>
+  <path d="M455 265h130" stroke="#6f4354" stroke-width="12" stroke-linecap="round"/>
+  <path d="M325 535c28-133 98-200 195-200s167 67 195 200" fill="none" stroke="#2f2f2f" stroke-width="12" stroke-linecap="round"/>
+  <path d="M760 230c90-55 150-42 210 0M760 315c105-45 165-24 215 18M760 395c80-25 132-7 176 30" fill="none" stroke="#b76e79" stroke-width="13" stroke-linecap="round"/>
+</svg>

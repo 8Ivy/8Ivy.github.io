@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title description">
+  <title id="title">Yuanlinxi Li profile placeholder</title>
+  <desc id="description">A muted rose circle with the initials YL.</desc>
+  <rect width="600" height="600" fill="#f8edf5"/>
+  <circle cx="300" cy="300" r="220" fill="#d8aebd"/>
+  <text x="300" y="342" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="500" fill="#5d3e49">YL</text>
+</svg>
