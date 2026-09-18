@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+  <title id="t">Aging and digital well-being</title><desc id="d">Two people and a small heart in a minimal line illustration.</desc>
+  <rect width="1200" height="675" fill="#f8edf5"/>
+  <circle cx="390" cy="245" r="74" fill="none" stroke="#2f2f2f" stroke-width="12"/>
+  <path d="M255 505c20-116 77-173 135-173s115 57 135 173" fill="none" stroke="#2f2f2f" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="800" cy="245" r="74" fill="none" stroke="#2f2f2f" stroke-width="12"/>
+  <path d="M665 505c20-116 77-173 135-173s115 57 135 173" fill="none" stroke="#2f2f2f" stroke-width="12" stroke-linecap="round"/>
+  <path d="M596 272c-59-63-160 28 0 138 160-110 59-201 0-138z" fill="#b76e79"/>
+</svg>

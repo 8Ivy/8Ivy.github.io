@@ -1,0 +1,101 @@
+cv:
+  name: Yuanlinxi Li
+  label: PhD Candidate in Human-Computer Interaction
+  email: liyuanlinxi1009@gmail.com
+  location: Shenzhen, China
+  image: ""
+  summary: Human-computer interaction researcher studying human-AI relationships, digital well-being, and embodied interaction.
+
+  sections:
+    Education:
+      - institution: Harbin Institute of Technology, Shenzhen
+        location: Shenzhen, China
+        area: Future Design
+        studyType: PhD Candidate
+        end_date: Present
+        highlights:
+          - Advised by Prof. Qingchuan Li.
+
+      - institution: Harbin Institute of Technology, Shenzhen
+        location: Shenzhen, China
+        area: Digital Media Art
+        studyType: M.A.
+        start_date: 2023
+        end_date: 2025
+        highlights:
+          - GPA 4.16/5.0; scholarship rank 3/100.
+
+      - institution: Tianjin University
+        location: Tianjin, China
+        area: Animation
+        studyType: B.A.
+        start_date: 2019
+        end_date: 2023
+        highlights:
+          - GPA 3.57/4.0; rank 6/50.
+
+      - institution: Tianjin University
+        location: Tianjin, China
+        area: Chinese Language and Literature
+        studyType: Dual B.A.
+        start_date: 2020
+        end_date: 2023
+
+    Research Experience:
+      - company: Harbin Institute of Technology, Shenzhen
+        position: Project Lead, Multisensory VR Mindful Breathing
+        location: Shenzhen, China
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - Conducted survey research, expert interviews, co-design, prototyping, and a mixed intervention experiment.
+          - Developed a multisensory VR prototype integrating physiological sensing and haptic wind feedback.
+
+      - company: Harbin Institute of Technology, Shenzhen
+        position: Researcher, AI-Assisted Cultural Heritage Design
+        location: Shenzhen, China
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - Conducted workshops, focus groups, expert interviews, and manual annotation for AI-assisted design research.
+
+      - company: Harbin Institute of Technology, Shenzhen
+        position: Researcher, Digital Art Therapy for Older Adults
+        location: Shenzhen, China
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - Supported cognitive assessment and prototype testing with older adults with mild cognitive impairment.
+
+    Teaching:
+      - company: Harbin Institute of Technology, Shenzhen
+        position: Teaching Assistant
+        location: Shenzhen, China
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - Human-Computer Interaction and User Experience Design.
+          - Interaction Design.
+          - Research Methods and Thesis Writing in Design.
+
+    Methods:
+      - name: Mixed Methods
+        icon: fa-solid fa-hashtag
+        keywords: Interviews, Focus Groups, Co-design, Surveys, Experiments, Platform Data Analysis
+      - name: Design and Prototyping
+        icon: fa-solid fa-hashtag
+        keywords: Figma, Unity, Arduino, Blender, TouchDesigner
+      - name: Analysis
+        icon: fa-solid fa-hashtag
+        keywords: SPSS, SmartPLS, MATLAB, Python, R, LaTeX
+
+    Languages:
+      - name: Chinese
+        summary: Native
+      - name: English
+        summary: Professional working proficiency
+
+    Interests:
+      - name: Beyond research
+        icon: fa-solid fa-tag
+        keywords: Debating, Stand-up Comedy, Badminton, Mindfulness, Live Music, City Walks
