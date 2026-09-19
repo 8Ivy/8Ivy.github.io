@@ -41,7 +41,7 @@ cv:
         start_date: 2020
         end_date: 2023
 
-    Research Experience:
+    Experience:
       - company: Harbin Institute of Technology, Shenzhen
         position: Project Lead, Multisensory VR Mindful Breathing
         location: Shenzhen, China
@@ -68,26 +68,18 @@ cv:
           - Supported cognitive assessment and prototype testing with older adults with mild cognitive impairment.
 
     Teaching:
-      - company: Harbin Institute of Technology, Shenzhen
-        position: Teaching Assistant
-        location: Shenzhen, China
-        start_date: 2024
-        end_date: 2025
-        highlights:
-          - Human-Computer Interaction and User Experience Design.
-          - Interaction Design.
-          - Research Methods and Thesis Writing in Design.
+      - bullet: "**Teaching Assistant**, Harbin Institute of Technology, Shenzhen (2024–2025): Human-Computer Interaction and User Experience Design; Interaction Design; Research Methods and Thesis Writing in Design."
 
-    Methods:
+    Skills:
       - name: Mixed Methods
         icon: fa-solid fa-hashtag
-        keywords: Interviews, Focus Groups, Co-design, Surveys, Experiments, Platform Data Analysis
+        keywords: [Interviews, Focus Groups, Co-design, Surveys, Experiments, Platform Data Analysis]
       - name: Design and Prototyping
         icon: fa-solid fa-hashtag
-        keywords: Figma, Unity, Arduino, Blender, TouchDesigner
+        keywords: [Figma, Unity, Arduino, Blender, TouchDesigner]
       - name: Analysis
         icon: fa-solid fa-hashtag
-        keywords: SPSS, SmartPLS, MATLAB, Python, R, LaTeX
+        keywords: [SPSS, SmartPLS, MATLAB, Python, R, LaTeX]
 
     Languages:
       - name: Chinese
@@ -98,4 +90,4 @@ cv:
     Interests:
       - name: Beyond research
         icon: fa-solid fa-tag
-        keywords: Debating, Stand-up Comedy, Badminton, Mindfulness, Live Music, City Walks
+        keywords: [Debating, Stand-up Comedy, Badminton, Mindfulness, Live Music, City Walks]

@@ -10,8 +10,7 @@ contact_note: >
   The best way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Yuanlinxi (Ivy) Li is an HCI researcher studying human-AI relationships, digital well-being, and embodied interaction.
-footer_text: >
-  © 2026 Yuanlinxi Li.
+footer_text:
 keywords: human-computer interaction, human-AI relationships, older adults, digital well-being, virtual reality
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌸 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

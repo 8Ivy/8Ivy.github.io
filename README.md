@@ -19,4 +19,3 @@ bundle exec jekyll serve
 - `_bibliography/papers.bib` — publications
 - `_data/cv.yml` — web CV
 - `_news/` — selected updates
-
