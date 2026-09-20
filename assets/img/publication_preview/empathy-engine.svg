@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Abstract illustration of a game engine cultivating social connection</title>
+  <rect width="800" height="600" fill="#f7f2f4"/>
+  <circle cx="400" cy="300" r="206" fill="#ead5dc"/>
+  <g fill="none" stroke="#6f5260" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M286 245c29-42 81-42 114 0 33-42 85-42 114 0 33 48-1 100-114 174-113-74-147-126-114-174Z"/>
+    <path d="M213 184h105m269 0H482M213 416h105m269 0H482"/>
+    <circle cx="186" cy="184" r="27"/><circle cx="614" cy="184" r="27"/><circle cx="186" cy="416" r="27"/><circle cx="614" cy="416" r="27"/>
+    <path d="M346 300h108m-54-54v108"/>
+  </g>
+</svg>

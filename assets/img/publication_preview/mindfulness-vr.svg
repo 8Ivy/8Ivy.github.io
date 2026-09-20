@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Abstract illustration of virtual reality mindfulness</title>
+  <rect width="800" height="600" fill="#f7f2f4"/>
+  <circle cx="400" cy="300" r="190" fill="#ecd9df"/>
+  <g fill="none" stroke="#6d5260" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M231 281c0-72 59-131 131-131h76c72 0 131 59 131 131"/>
+    <rect x="257" y="238" width="286" height="128" rx="50"/>
+    <path d="M257 298h-50m386 0h-50M333 302c18-20 42-20 60 0m14 0c18-20 42-20 60 0"/>
+    <path d="M400 410c-38 0-68 31-68 68m68-68c38 0 68 31 68 68"/>
+    <path d="M338 492c19 13 40 20 62 20s43-7 62-20"/>
+  </g>
+  <g fill="#a9687a"><circle cx="181" cy="181" r="12"/><circle cx="628" cy="176" r="9"/><circle cx="651" cy="415" r="13"/></g>
+</svg>

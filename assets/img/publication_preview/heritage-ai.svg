@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Abstract illustration of cultural heritage professionals and AI-assisted patchwork</title>
+  <rect width="800" height="600" fill="#f8f3f5"/>
+  <g fill="#ead5dc">
+    <path d="m152 121 122 70-122 70-122-70Z"/><path d="m396 121 122 70-122 70-122-70Z"/><path d="m640 121 122 70-122 70-122-70Z"/>
+    <path d="m274 331 122 70-122 70-122-70Z"/><path d="m518 331 122 70-122 70-122-70Z"/>
+  </g>
+  <g fill="none" stroke="#6f5260" stroke-width="9" stroke-linejoin="round">
+    <path d="m152 121 122 70-122 70-122-70Zm244 0 122 70-122 70-122-70Zm244 0 122 70-122 70-122-70ZM274 331l122 70-122 70-122-70Zm244 0 122 70-122 70-122-70Z"/>
+    <path d="M152 121v140m244-140v140m244-140v140M274 331v140m244-140v140"/>
+  </g>
+  <path d="M618 450c0-47 38-85 85-85m-85 85c47 0 85 38 85 85m-85-85c0 47-38 85-85 85m85-85c-47 0-85-38-85-85" fill="none" stroke="#a9687a" stroke-width="12" stroke-linecap="round"/>
+</svg>

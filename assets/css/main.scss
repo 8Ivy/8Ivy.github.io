@@ -40,3 +40,47 @@ html[data-theme="dark"] {
 .projects .card {
   border-color: color-mix(in srgb, var(--global-theme-color) 22%, transparent);
 }
+
+/* Calm, editorial publication rows inspired by the user's reference layout. */
+.publications ol.bibliography li {
+  margin-bottom: 2.25rem;
+}
+
+.publications ol.bibliography li .row {
+  align-items: flex-start;
+}
+
+.publications ol.bibliography li .abbr {
+  margin-bottom: 0;
+}
+
+.publications ol.bibliography li .abbr abbr {
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+}
+
+.publications ol.bibliography li img.preview {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border: 1px solid color-mix(in srgb, var(--global-theme-color) 18%, var(--global-divider-color));
+  box-shadow: none !important;
+}
+
+.publications ol.bibliography li .title {
+  font-size: 1.03rem;
+  line-height: 1.4;
+  margin-bottom: 0.22rem;
+}
+
+.publications ol.bibliography li .author,
+.publications ol.bibliography li .periodical {
+  line-height: 1.55;
+}
+
+@media (max-width: 575.98px) {
+  .publications ol.bibliography li .abbr {
+    max-width: 10.5rem;
+    margin-bottom: 0.85rem;
+  }
+}

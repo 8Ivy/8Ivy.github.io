@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Abstract illustration of human and AI co-creation around Yanchuan patchwork</title>
+  <rect width="800" height="600" fill="#f8f3f5"/>
+  <path d="M0 430 270 250l260 180 270-160v330H0Z" fill="#ead5dc"/>
+  <g fill="none" stroke="#6f5260" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m165 364 113-75 117 75-117 76Z"/>
+    <path d="m278 289 117-76 119 76-119 75Z"/>
+    <path d="m395 364 119-75 120 76-120 75Z"/>
+    <circle cx="178" cy="168" r="52"/>
+    <path d="M109 260c18-43 43-65 69-65s51 22 69 65"/>
+    <rect x="562" y="116" width="116" height="94" rx="24"/>
+    <path d="M620 210v42m-40 0h80M594 157h2m48 0h2"/>
+  </g>
+</svg>

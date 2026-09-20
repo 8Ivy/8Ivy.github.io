@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Abstract illustration of older adults creating digital art</title>
+  <rect width="800" height="600" fill="#f8f3f5"/>
+  <path d="M0 470c140-77 259-78 360-4 119 87 261 84 440-9v143H0Z" fill="#ead5dc"/>
+  <g fill="none" stroke="#6f5260" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="277" y="118" width="302" height="230" rx="22"/>
+    <path d="M309 312c55-74 96-90 124-49 34 50 69 32 114-55"/>
+    <circle cx="351" cy="180" r="24"/>
+    <circle cx="193" cy="317" r="54"/>
+    <path d="M119 466c14-77 39-115 74-115s60 38 74 115"/>
+    <path d="M193 371v68l91-84"/>
+    <path d="m561 399 42 43 76-94"/>
+  </g>
+  <path d="M443 174c38-34 79-25 91 5 13 31-18 62-91 94-73-32-104-63-91-94 12-30 53-39 91-5Z" fill="#c992a3"/>
+</svg>
