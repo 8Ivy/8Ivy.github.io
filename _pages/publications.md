@@ -8,6 +8,7 @@ nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
+<!-- Publications list reviewed against the author's public research profiles on 2026-09-20. -->
 
 <!-- Bibsearch Feature -->
 
