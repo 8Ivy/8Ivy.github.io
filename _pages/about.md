@@ -6,7 +6,7 @@ subtitle: PhD Candidate · Human-Computer Interaction · Harbin Institute of Tec
 
 profile:
   align: right
-  image: ivy-placeholder.svg
+  image: yuanlinxi-li.jpg
   image_circular: true
   more_info: >
     <p>Future Design School</p>
