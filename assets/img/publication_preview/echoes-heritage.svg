@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Abstract illustration of immersive XR and rural heritage</title>
+  <rect width="800" height="600" fill="#f8f3f5"/>
+  <path d="M0 431 186 292l119 90 165-163 330 225v156H0Z" fill="#ead5dc"/>
+  <g fill="none" stroke="#6f5260" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 438 266 302l174 136v95H92Z"/>
+    <path d="M202 533V417h128v116"/>
+    <path d="M481 175c-57 0-104 47-104 104v52"/>
+    <rect x="440" y="245" width="238" height="107" rx="46"/>
+    <path d="M497 299h2m118 0h2M541 302c13-14 25-14 38 0"/>
+    <path d="M559 352v67"/>
+  </g>
+  <path d="M548 447c0-30 24-54 54-54m-54 54c30 0 54 24 54 54m-54-54c0 30-24 54-54 54m54-54c-30 0-54-24-54-54" fill="none" stroke="#a9687a" stroke-width="10"/>
+</svg>

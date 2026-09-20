@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Abstract illustration of cross-modal sound, color, and touch</title>
+  <rect width="800" height="600" fill="#f7f2f4"/>
+  <g fill="none" stroke="#6f5260" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M101 301c57-125 118-125 183 0s126 125 184 0 119-125 231 0"/>
+    <path d="M101 367c57-91 118-91 183 0s126 91 184 0 119-91 231 0" opacity=".55"/>
+    <circle cx="400" cy="210" r="92"/>
+    <path d="M345 210c35-48 75-48 110 0-35 48-75 48-110 0Z"/>
+    <circle cx="400" cy="210" r="18"/>
+    <path d="M212 470c77-45 143-46 198-4 57 43 119 41 186-6"/>
+  </g>
+  <g fill="#c78ea1"><circle cx="182" cy="174" r="31"/><circle cx="621" cy="181" r="22"/><circle cx="110" cy="446" r="16"/><circle cx="687" cy="455" r="28"/></g>
+</svg>

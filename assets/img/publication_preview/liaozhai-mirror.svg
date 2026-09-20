@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">Abstract illustration of a mirror and gender awareness in serious games</title>
+  <rect width="800" height="600" fill="#f7f2f4"/>
+  <ellipse cx="400" cy="290" rx="184" ry="218" fill="#ead5dc"/>
+  <g fill="none" stroke="#6f5260" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="400" cy="276" rx="148" ry="185"/>
+    <path d="M400 461v62m-83 0h166"/>
+    <circle cx="353" cy="246" r="42"/><circle cx="447" cy="246" r="42"/>
+    <path d="M299 382c12-63 30-94 54-94s42 31 54 94m-14 0c12-63 30-94 54-94s42 31 54 94"/>
+    <path d="M352 203c27-31 69-31 96 0"/>
+  </g>
+  <path d="m400 126 19 38 42 6-31 30 8 42-38-20-38 20 8-42-31-30 42-6Z" fill="#b9778c"/>
+</svg>
